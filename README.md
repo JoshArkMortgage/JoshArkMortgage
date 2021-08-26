@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joshua Grossman
 - 👀 I’m interested in ...React/React Native, and great design 
 - 🌱 I’m currently learning ... everything I can
-- 💞️ I’m looking to collaborate on ... nothing in particular ATM
 - 📫 How to reach me ... jgrossman@arkmortgage.com 
 
 <!---
